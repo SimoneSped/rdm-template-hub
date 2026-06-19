@@ -1,12 +1,6 @@
-# FGGA Templates
-A repository for archiving and sharing the various templates created to improve the Research Data Management Practices of the FGGA @ Uni Wien.
+## Overview
+A curated collection of reusable Research Data Management (RDM) materials—e.g., Zenodo metadata templates and README boilerplates—that you can copy and adapt for your projects.
 
-## About 
+### Where to start
 
-## How to use
-
-## Contributors
-
-## Contact 
-
-## Acknowledgments
+### Contributors 
