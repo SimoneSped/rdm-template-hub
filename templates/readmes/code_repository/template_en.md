@@ -4,10 +4,10 @@
 [A brief 1-2 sentence description of what the code does and a link to your paper once published/preprint].
 
 ## Where to get started
-[Quick instructions on how to install the code and a simple example to run a test].
+[Quick instructions on how to install the code and a simple example].
 
 ## Contributors
-[Your name(s)]
+[Your name(s) and affiliations]
 
 ## How to Cite
 [Explain how users should cite your work, e.g., "If you use this code, please cite our paper (link) and the Zenodo DOI (link/badge)"].
