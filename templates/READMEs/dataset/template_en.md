@@ -1,6 +1,6 @@
 ## Overview
 
-### Where to get started 
+### Get started 
 
 ### Contributors
 
@@ -9,3 +9,4 @@
 ### License
 
 ### Acknowledgments
+Funding, Grant Number
