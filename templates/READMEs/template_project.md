@@ -1,9 +1,7 @@
 # Overview
-* What the dataset/project is: scope, purpose, versions, related papers/DOIs.
-* How it was collected/created: instruments, protocols, sampling, preprocessing, software and versions, dates.
+* What the project is: scope, purpose, related papers/DOIs.
 
 ## Get started 
-* Variables/indices: data dictionary with names, definitions, units, allowed values.
 * File organization: folder structure, file formats, naming conventions.
 
 ## Contributors
@@ -11,7 +9,7 @@
 
 ## License and citation
 * Licensing and citation: license for data and code, how to cite, funder/grant info, acknowledgments.
-* Restrictions on reuse: embargoes, sensitive data handling, consent/IRB, access controls, anonymization.
+* Restrictions on reuse: embargoes, sensitive data handling, consent, access controls, anonymization.
 
 ## Contact
 * Who to contact for questions.
