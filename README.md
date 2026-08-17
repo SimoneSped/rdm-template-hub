@@ -5,7 +5,7 @@ This repository contains a collection collection of reusable Research Data Manag
 
 ## Get started 
 - `templates/READMEs` — collection of READMEs, which can be used to accompany and describe code, datasets or entire projects.
-- `templates/metadata` — WIP
+- `templates/metadata` — (WIP) skeleton structure for filling in the free-text fields for the metadata in repositories, such as Zenodo or PHAIDRA; both in HTML and MD
   
 ## Contributors & Contact
 * Simone Spedicato <a href="https://orcid.org/0009-0003-0198-4398"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD SiS" height="16"></a> (Data Steward, Faculty of Earth Sciences, Geography and Astronomy, University of Vienna, Austria)
