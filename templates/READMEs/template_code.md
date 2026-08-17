@@ -1,6 +1,4 @@
-# PROJECT TITLE
-
-## Overview
+# Overview
 * A brief 1-2 sentence description of what the code does and a link to your paper once published/preprint.
 
 ## Get started
