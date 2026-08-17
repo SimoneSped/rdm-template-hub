@@ -1,12 +1,19 @@
-## Overview
+# Overview
+* What the dataset/project is: scope, purpose, versions, related papers/DOIs.
+* How it was collected/created: instruments, protocols, sampling, preprocessing, software and versions, dates.
 
-### Get started 
+## Get started 
+* Variables/indices: data dictionary with names, definitions, units, allowed values.
 
-### Contributors
+## Contributors
+* List of contributors to the dataset/project.
+  
+## Contact
+* Who to contact for questions.
 
-### Contact
+## License and citation
+* Licensing and citation: license for data and code, how to cite, funder/grant info, acknowledgments.
+* Restrictions on reuse: embargoes, sensitive data handling, consent/IRB, access controls, anonymization.
 
-### License
-
-### Acknowledgments
-Funding, Grant Number
+## Acknowledgments
+* Funding (Grant Number, Project Name)
