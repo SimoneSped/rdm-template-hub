@@ -1,4 +1,6 @@
-# Overview
+# PROJECT NAME
+
+## Overview
 * What the project is: scope, purpose, related papers/DOIs.
 
 ## Get started 
